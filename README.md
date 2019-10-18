@@ -1,4 +1,4 @@
-#netNinjaJS
+# netNinjaJS
 
 The Net Ninja JavaScript course 
 
