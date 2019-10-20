@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d63d33f-bcb4-4d44-a84c-c07de689800d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather_ninja/scripts/forecast.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather_ninja/scripts/forecast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/chat/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -61,7 +62,8 @@
       <workItem from="1571484052809" duration="12000" />
       <workItem from="1571522720878" duration="1835000" />
       <workItem from="1571524570503" duration="2468000" />
-      <workItem from="1571559087798" duration="9595000" />
+      <workItem from="1571559087798" duration="10642000" />
+      <workItem from="1571595060758" duration="247000" />
     </task>
     <servers />
   </component>
