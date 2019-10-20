@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d63d33f-bcb4-4d44-a84c-c07de689800d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chat/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat/scripts/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather_ninja/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather_ninja/scripts/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather_ninja/scripts/forecast.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather_ninja/scripts/forecast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +17,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SLceDMLxk95scWitwLRObozYpX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,7 +39,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/netNinjaJS/weather_ninja/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/netNinjaJS/chat/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -55,7 +59,11 @@
       <option name="presentableId" value="Default" />
       <updated>1571346409961</updated>
       <workItem from="1571346411046" duration="1122000" />
-      <workItem from="1571358833729" duration="1546000" />
+      <workItem from="1571358833729" duration="1769000" />
+      <workItem from="1571484052809" duration="12000" />
+      <workItem from="1571522720878" duration="1835000" />
+      <workItem from="1571524570503" duration="2468000" />
+      <workItem from="1571559087798" duration="8153000" />
     </task>
     <servers />
   </component>
